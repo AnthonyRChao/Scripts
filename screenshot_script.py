@@ -1,3 +1,6 @@
+"""
+I created this script to help my girlfriend screenshot thousands of pages of e-textbooks that she did not want to pay for. Incredibly satisfying.
+"""
 import pyautogui
 import time
 
