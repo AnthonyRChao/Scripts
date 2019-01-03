@@ -1,0 +1,9 @@
+NAME|SERVER|MATURITY|CENTER|YEARS_OF_HISTORY|POLL_RATIO|ACTIVE|DOMINANCE|MAX_HEAP_SIZE|GP_TGT_HOST|PDI
+psh-w|pshcraa001|blk|ewd|30.00|1.00|y|10|2g|pshcgpd001|8.0.0
+blk-w|iresa-etl-w-p|blk|ewd|30.00|1.00|y|10|2g|iresa-mpp-w-p|4.4.0
+blk-e|iresa-etl-e-p|blk|hal|30.00|1.00|y|8|2g|iresa-mpp-e-p|4.4.0
+tst-w|iresa-etl-w-t|tst|ewd|2.00|0.10|y|6|1g|iresa-mpp-w-t|4.4.0
+tst-e|iresa-etl-e-t|tst|hal|2.00|0.10|y|4|1g|iresa-mpp-e-t|8.0.0
+dev-w|iresa-etl-w-d|dev|ewd|0.05|0.01|y|2|512m|iresa-mpp-w-d|4.4.0
+dev-e|iresa-etl-e-d|dev|hal|0.05|0.01|y|0|512m|iresa-mpp-e-d|8.0.0
+prod|blkcraa001|blk|ewd|30.00|0.00|n|0|2g|blkcraa001|4.4.0
