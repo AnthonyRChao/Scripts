@@ -10,78 +10,85 @@ import sys
 import argparse
 
 
+PRIMARY_KEY_FILES = ["Centers.catalog.test",
+                     "Environments.catalog.test",
+                     "Labs.catalog.test",
+                     "Products.catalog.test"]
+
+COMPOSITE_KEY_FILES = ["Services.catalog.test"]
+
+
 def update(args):
     """Updates column values for specified file and key."""
-    # TODO (achao): Handle compound key for Services.catalog
 
-#     if args.file in ["Centers.catalog.test",
-#                      "Environments.catalog.test",
-#                      "Labs.catalog.test",
-#                      "Products.catalog.test"]:
-#         print("Valid file.")
-#     elif args.file in ["Services.catalog.test"]:
-#         print("TODO.")
-#     else:
-#         print("""Please provide a valid catalog filename.
-# (e.g. Products.catalog)""")
+    if args.file in PRIMARY_KEY_FILES:
 
-    infile = open(args.file, 'r')
-    outfile = open(args.file + '.out', 'w')
+        infile = open(args.file, 'r')
+        outfile = open(args.file + '.out', 'w')
 
-    # A. Get list of keys from file, confirm user provided key is valid
-    keys = get_keys(infile)
-    infile.seek(0)
-    if args.key not in keys[1:]:
-        print("Please provide a valid key.")
+        # A. Get list of keys from file, confirm user provided key is valid
+        keys = get_keys(infile)
+        infile.seek(0)
+        if args.key not in keys[1:]:
+            print("Please provide a valid key.")
 
-    # B. Get list of headers from file, store value and index in dictionary
-    header_list = infile.readline()
-    outfile.write(header_list)
-    header_dictionary = {}
-    for counter, value in enumerate(header_list.rstrip().split('|')):
-        header_dictionary[value.lower()] = counter
+        # B. Get list of headers from file, store value and index in dictionary
+        header_list = infile.readline()
+        outfile.write(header_list)
+        header_dictionary = {}
+        for counter, value in enumerate(header_list.rstrip().split('|')):
+            header_dictionary[value.lower()] = counter
 
-    # C. Extract cols and vals from args, validate input, zip cols and vals
-    vals = args.cols_vals[1::2]
-    cols = [col.lower() for col in args.cols_vals[::2]]
+        # C. Extract cols and vals from args, validate input, zip cols and vals
+        vals = args.cols_vals[1::2]
+        cols = [col.lower() for col in args.cols_vals[::2]]
 
-    if len(vals) != len(cols):  # Confirm same number of columns and values
-        print("Number of columns does not match number of values, exiting.")
-        exit(1)
-    elif len(cols) != len(set(cols)):  # Confirm no duplicate columns
-        print("Duplicate columns provided, exiting.")
-        exit(1)
-    else:  # Confirm no invalid columns
-        for col in cols:
-            if col not in header_dictionary.keys():
-                print(f"'{col}' is not a valid column, exiting.")
-                print("Valid columns are:", list(header_dictionary.keys())[1:])
+        if len(vals) != len(cols):  # Confirm same number of columns and values
+            print("Number of columns does not match number of values, exiting.")
             exit(1)
+        elif len(cols) != len(set(cols)):  # Confirm no duplicate columns
+            print("Duplicate columns provided, exiting.")
+            exit(1)
+        else:  # Confirm no invalid columns
+            for col in cols:
+                if col not in header_dictionary.keys():
+                    print(f"'{col}' is not a valid column, exiting.")
+                    print("Valid columns are:", list(header_dictionary.keys())[1:])
+                exit(1)
 
-    cols_vals = zip(cols, vals)
+        cols_vals = zip(cols, vals)
 
-    # D. Iterate through each line in file
-    #       if provided key is found
-    #           iterate through provided cols_vals and update
-    line = infile.readline().lower()
-    while line:
-        items = line.split('|')
-        if args.key == items[0]:
-            for col_val in cols_vals:
-                print("Updating column: {0:15} | [{1}] => [{2}].".format(
-                    col_val[0],
-                    items[header_dictionary[col_val[0]]].rstrip(),
-                    col_val[1]))
-                items[header_dictionary[col_val[0]]] = col_val[1]
-            if "\n" not in items[-1]:
-                items[-1] += "\n"
-            outfile.write('|'.join(items))
-        else:
-            outfile.write(line)
-        line = infile.readline()
+        # D. Iterate through each line in file
+        #       if provided key is found
+        #           iterate through provided cols_vals and update
+        line = infile.readline().lower()
+        while line:
+            items = line.split('|')
+            if args.key == items[0]:
+                for col_val in cols_vals:
+                    print("Updating column: {0:15} | [{1}] => [{2}].".format(
+                        col_val[0],
+                        items[header_dictionary[col_val[0]]].rstrip(),
+                        col_val[1]))
+                    items[header_dictionary[col_val[0]]] = col_val[1]
+                if "\n" not in items[-1]:
+                    items[-1] += "\n"
+                outfile.write('|'.join(items))
+            else:
+                outfile.write(line)
+            line = infile.readline()
 
-    infile.close()
-    outfile.close()
+        infile.close()
+        outfile.close()
+    elif args.file in COMPOSITE_KEY_FILES:
+        # TODO (achao): Handle composite key for Services.catalog
+        pass
+    else:
+        print("Please provide a valid catalog filename.")
+        print("Valid files: {}".
+              format(PRIMARY_KEY_FILES + COMPOSITE_KEY_FILES))
+        exit(1)
+
 
 
 def read(args):
@@ -127,6 +134,7 @@ def read(args):
 
 def get_keys(file):
     """Returns keys for given file."""
+    
     return [line.split('|')[0] for line in file.readlines()]
 
 
@@ -155,8 +163,6 @@ def main():
     parser_update.add_argument("cols_vals", nargs="+",
                                help="column value pairs to edit | \
                                usage: [col1 val1 col2 val2 ...]")
-    # parser_update.add_argument("columns", help="columns to edit")
-    # parser_update.add_argument("values", help="values to update to")
     parser_update.set_defaults(func=update)
 
     # Sub-command Read
