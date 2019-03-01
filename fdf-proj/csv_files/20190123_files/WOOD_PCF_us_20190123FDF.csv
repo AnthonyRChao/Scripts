@@ -1,0 +1,98 @@
+Fund Level
+Fund Name,iShares Global Timber & Forestry ETF
+Fund Ticker,WOOD
+Fund ISIN,US4642881746
+Fund Cusip,464288174
+Fund LEI,
+Total NAV per share,62.836041,Jan 23 2019
+Distribution per Share,,
+Fund Size,312923484.18,Jan 23 2019
+Shares Outstanding,4980000,Jan 23 2019
+Baskets Outstanding,83.000000000000,Jan 23 2019
+Share Class Apportionment Ratio,1
+Exposure Basket,NO
+Total Expense Ratio,
+
+Basket Level
+Trade Date,Jan 24 2019
+Settlement Date,
+Shares per Basket (PNU),60000
+Projected Transaction Fee,,
+Confirmed Transaction Fee,,
+Projected Cash for Pricing Basket,15055.56,Jan 24 2019
+Projected Cash for Deliverable Basket,18614.17,Jan 24 2019
+Confirmed Cash for Deliverable Basket,18661.5,Jan 23 2019
+Metal Entitlement,,
+
+Spreads
+Type,Bid Spread,Offer Spread, Threshold
+
+Allocation Details
+Allocation Type,Allocation Weight
+
+Holdings: Securities
+ASSET CLASS,NAME,MIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),LOCAL CURRENCY,FACTOR,ACCRUED INCOME,ALT ID1 TYPE, ALT ID1 VALUE,ALT ID2 TYPE, ALT ID2 VALUE,ALT ID3 TYPE, ALT ID3 VALUE
+EQUITY,CANFOR CORP,,137576104,CA1375761048,B18P4F6,6331,6331.00000,0.00000,12.114406,CAD,1.000000,,,,,,,
+EQUITY,CATCHMARK TIMBER TRUST INC CLASS A,,14912Y202,US14912Y2028,BH667R6,4829,4829.00000,0.00000,8.380000,USD,1.000000,,,,,,,
+EQUITY,DOMTAR CORP,,257559203,US2575592033,B1T84Z4,3101,3101.00000,0.00000,44.560000,USD,1.000000,,,,,,,
+EQUITY,HOLMEN CLASS B,,W4R00P201,SE0011090018,BDQQ1Q5,4895,4895.00000,0.00000,21.225712,SEK,1.000000,,,,,,,
+EQUITY,INTERFOR CORP,,45868C109,CA45868C1095,BMJ71W4,6479,6479.00000,0.00000,11.395627,CAD,1.000000,,,,,,,
+EQUITY,INTERNATIONAL PAPER,,460146103,US4601461035,2465254,3709,3709.00000,0.00000,45.830000,USD,1.000000,,,,,,,
+EQUITY,KLABIN UNITS SA,,P60933135,BRKLBNCDAM18,BJ0K6Z9,37800,37800.00000,0.00000,4.834656,BRL,1.000000,,,,,,,
+EQUITY,MONDI PLC,,G6258S107,GB00B1CRLC47,B1CRLC4,7285,7285.00000,0.00000,23.629144,GBP,1.000000,,,,,,,
+EQUITY,NIPPON PAPER INDUSTRIES LTD,,J28583169,JP3721600009,B8B8PJ2,5100,5196.38554,0.00000,19.409860,JPY,1.000000,,,,,,,
+EQUITY,OJI HOLDINGS CORP,,J6031N109,JP3174410005,6657701,27500,27583.13253,0.00000,5.545674,JPY,1.000000,,,,,,,
+EQUITY,POTLATCHDELTIC CORP,,737630103,US7376301039,B0XXJN1,6180,6180.00000,0.00000,34.440000,USD,1.000000,,,,,,,
+EQUITY,RAYONIER REIT INC,,754907103,US7549071030,2473138,11898,11898.00000,0.00000,28.950000,USD,1.000000,,,,,,,
+EQUITY,SAPPI LTD,,S73544108,ZAE000006284,6777007,27372,27372.00000,0.00000,5.543188,ZAR,1.000000,,,,,,,
+EQUITY,SMURFIT KAPPA GROUP PLC,,G8248F104,IE00B1RR8406,B1RR828,4846,4846.00000,0.00000,27.741997,EUR,1.000000,,,,,,,
+EQUITY,STORA ENSO CLASS R,,X8T9CM113,FI0009005961,5072673,10873,10873.00000,0.00000,13.449976,EUR,1.000000,,,,,,,
+EQUITY,SUMITOMO FORESTRY LTD,,J77454122,JP3409800004,6858861,8400,8493.97590,0.00000,13.052401,JPY,1.000000,,,,,,,
+EQUITY,SUZANO BAHIA SUL PAPEL E CELULOSE,,P8T20U187,BRSUZBACNOR0,B02GKC7,17200,17200.01204,0.00000,12.064269,BRL,1.000000,,,,,,,
+EQUITY,SVENSKA CELLULOSA B,,W90152120,SE0000112724,B1VVGZ5,35553,35553.00000,0.00000,8.530643,SEK,1.000000,,,,,,,
+EQUITY,UPM-KYMMENE,,X9518S108,FI0009005987,5051252,5156,5156.00000,0.00000,29.039203,EUR,1.000000,,,,,,,
+EQUITY,WEST FRASER TIMBER LTD,,952845105,CA9528451052,2951098,5551,5551.00000,0.00000,51.714585,CAD,1.000000,,,,,,,
+EQUITY,WESTERN FOREST PRODUCTS INC,,958211203,CA9582112038,B02F2N9,38638,38638.00000,0.00000,1.527403,CAD,1.000000,,,,,,,
+EQUITY,WESTROCK,,96145D105,US96145D1054,BYR0914,3553,3553.00000,0.00000,41.030000,USD,1.000000,,,,,,,
+EQUITY,WEYERHAEUSER REIT,,962166104,US9621661043,2958936,11953,11953.00000,0.00000,24.290000,USD,1.000000,,,,,,,
+,,,,,,294202,294475.50601,0.00000
+
+Holdings: Synthetics
+ASSET CLASS,NAME,RIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),PRICE MULTIPLIER,CONTRACT SIZE,AVERAGE CONTRACT OPEN PRICE,BLOOMBERG TICKER
+
+FX Rates
+Base Currency,USD
+BRL,0.263182
+CAD,0.748727
+EUR,1.137900
+GBP,1.306199
+JPY,0.009121
+SEK,0.110874
+ZAR,0.072280
+
+FX Forwards
+Currency Pair,Value Date,Nominal,Rate,Value,Currency
+
+Swaps
+Swap Notional,
+Swap Spread,
+Swap Mkt Value,
+
+Disclaimers
+CAREFULLY CONSIDER THE FUNDS INVESTMENT OBJECTIVES RISK FACTORS AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS
+PROSPECTUSES OR IF AVAILABLE THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING www.iShares.com OR www.blackrock.com. READ THE PROSPECTUS CAREFULLY BEFORE
+INVESTING. INVESTING INVOLVES RISK INCLUDING POSSIBLE LOSS OF PRINCIPAL.
+The iShares Funds are distributed by BlackRock Investments LLC (together with its affiliates BlackRock).
+The iShares Funds are not sponsored endorsed issued sold or promoted by Barclays Bloomberg Finance L.P. BlackRock Index Services LLC Cohen & Steers Capital Management Inc. European Public Real Estate
+Association (EPRA) FTSE International Limited (FTSE) ICE Data Services LLC India Index Services & Products Limited JPMorgan Chase & Co. Japan Exchange Group MSCI Inc. Markit Indices Limited Morningstar
+Inc. The NASDAQ OMX Group Inc. National Association of Real Estate Investment Trusts (NAREIT) New York Stock Exchange Inc. Russell or S&P Dow Jones Indices LLC. None of these companies make any
+representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services LLC who is an affiliate BlackRock Investments LLC is not affiliated with the companies listed above.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE NAREIT Equity REITS Index FTSE NAREIT All Residential Capped Index or FTSE NAREIT All Mortgage Capped Index; all rights vest in NAREIT.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE EPRA/NAREIT Developed Real Estate ex-U.S. Index FTSE EPRA/NAREIT Developed Europe Index or FTSE EPRA/NAREIT Global REIT Index;
+all rights vest in FTSE NAREIT and EPRA. FTSE is a trademark of London Stock Exchange Group companies and is used by FTSE under license.
+As a prior condition to gaining access to information for certain BlackRock funds and iShares ETFs (the Data) on a BlackRock operated FTP site (the FTP Site) you as the user of the FTP Site must acknowledge
+and agree to these Terms of Use available for download at https://www.ishares.com/us/literature/holdings/fdf-terms-of-use.pdf.
+By accessing the FTP Site downloading or using the Data from the FTP Site and/or producing any derivative works or materials based on or incorporating any Data you acknowledge and agree to these Terms of Use which
+apply to the access download and use of the Data from the FTP Site. If you do not wish to be bound by these Terms of Use please do not access the FTP Site download or use any of the Data contained in the FTP Site.
+Copyright 2019 BlackRock. All rights reserved. iShares and BlackRock are registered trademarks of BlackRock. All other trademarks servicemarks or registered trademarks are the property of their respective owners.
+ICRMH0119U-694529-1/1

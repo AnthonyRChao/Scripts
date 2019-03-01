@@ -1,0 +1,96 @@
+Fund Level
+Fund Name,iShares MSCI Russia ETF
+Fund Ticker,ERUS
+Fund ISIN,US46434G7988
+Fund Cusip,46434G798
+Fund LEI,
+Total NAV per share,33.763526,Jan 22 2019
+Distribution per Share,,
+Fund Size,540216416.00,Jan 22 2019
+Shares Outstanding,16000000,Jan 22 2019
+Baskets Outstanding,320.000000000000,Jan 22 2019
+Share Class Apportionment Ratio,1
+Exposure Basket,NO
+Total Expense Ratio,
+
+Basket Level
+Trade Date,Jan 23 2019
+Settlement Date,
+Shares per Basket (PNU),50000
+Projected Transaction Fee,,
+Confirmed Transaction Fee,,
+Projected Cash for Pricing Basket,12312.42,Jan 23 2019
+Projected Cash for Deliverable Basket,409002.23,Jan 23 2019
+Confirmed Cash for Deliverable Basket,409028.79,Jan 22 2019
+Metal Entitlement,,
+
+Spreads
+Type,Bid Spread,Offer Spread, Threshold
+
+Allocation Details
+Allocation Type,Allocation Weight
+
+Holdings: Securities
+ASSET CLASS,NAME,MIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),LOCAL CURRENCY,FACTOR,ACCRUED INCOME,ALT ID1 TYPE, ALT ID1 VALUE,ALT ID2 TYPE, ALT ID2 VALUE,ALT ID3 TYPE, ALT ID3 VALUE
+EQUITY,AK ALROSA,,X0085A109,RU0007252813,B6QPBP2,35780,35789.09375,0.00000,1.503562,RUB,1.000000,,,,,,,
+EQUITY,BANK VTB,,X9814J117,RU000A0JP5V6,B5B1TP4,0,30016953.17500,0.00000,0.000558,RUB,1.000000,,,,,,,
+EQUITY,GAZPROM,,X3123F106,RU0007661625,B59L4L7,86750,86752.50000,0.00000,2.383145,RUB,1.000000,,,,,,,
+EQUITY,GMK NORILSKIY NIKEL,,X5424N118,RU0007288411,B5B1TX2,401,401.84062,0.00000,200.063901,RUB,1.000000,,,,,,,
+EQUITY,INTER RAO YEES,,X39961101,RU000A0JPNM1,B5B2VL7,555000,555840.62500,0.00000,0.057286,RUB,1.000000,,,,,,,
+EQUITY,JSC VTB BANK GDR,,46630Q202,US46630Q2021,B1W7FX3,2273,2273.56562,0.00000,1.250000,USD,1.000000,,,,,,,
+EQUITY,MAGNITOGORSKIY METALLURGICHESKIY K,,X5171A103,RU0009084396,B5B1RP0,43800,43890.62500,0.00000,0.661266,RUB,1.000000,,,,,,,
+EQUITY,MOBILE TELESYSTEMS ADR REP,,607409109,US6074091090,2603225,6473,6473.62500,0.00000,8.100000,USD,1.000000,,,,,,,
+EQUITY,MOSCOW EXCHANGE,,X6983N101,RU000A0JR4A1,B9GFHQ6,0,21817.25000,0.00000,1.419362,RUB,1.000000,,,,,,,
+EQUITY,NK LUKOIL,,X6983S100,RU0009024277,B59SNS8,4075,4075.67187,0.00000,77.974703,RUB,1.000000,,,,,,,
+EQUITY,NK ROSNEFT,,X7394C106,RU000A0J2Q06,B59SS16,0,4260.50000,0.00000,6.268348,RUB,1.000000,,,,,,,
+EQUITY,NOVOLIPETSK STEEL,,X58996103,RU0009046452,B59FPC7,17820,17828.81250,0.00000,2.253839,RUB,1.000000,,,,,,,
+EQUITY,PAO NOVATEK GDR,,669888109,US6698881090,B0DK750,418,418.95937,0.00000,178.200000,USD,1.000000,,,,,,,
+EQUITY,PJSC MAGNIT GDR,,55953Q202,US55953Q2021,B2QKYZ0,0,4118.30000,0.00000,15.695000,USD,1.000000,,,,,,,
+EQUITY,PJSC PHOSAGRO GDR,,71922G209,US71922G2093,B62QPJ1,2325,2325.37187,0.00000,13.500000,USD,1.000000,,,,,,,
+EQUITY,POLYMETAL INTERNATIONAL PLC,,G7179S101,JE00B6T5S470,BBMT4K9,0,2781.17812,0.00000,10.983517,RUB,1.000000,,,,,,,
+EQUITY,POLYUS,,X59432108,RU000A0JNAA8,B57R0L9,0,495.29062,0.00000,81.162253,RUB,1.000000,,,,,,,
+EQUITY,ROSNEFT OIL COMPANY GDR,,67812M207,US67812M2070,B17FSC2,6638,6638.00937,0.00000,6.230000,USD,1.000000,,,,,,,
+EQUITY,SBERBANK ROSSII,,X76317100,RU0009029540,4767981,0,55286.00000,0.00000,3.126656,RUB,1.000000,,,,,,,
+EQUITY,SBERBANK RUSSIA SPONSORED ADR REPR,,80585Y308,US80585Y3080,B5SC091,5983,5983.90312,0.00000,12.730000,USD,1.000000,,,,,,,
+EQUITY,SEVERSTAL,,X7805W105,RU0009046510,B5B9C59,3020,3027.92187,0.00000,14.318417,RUB,1.000000,,,,,,,
+EQUITY,SURGUTNEFTEGAZ,,X8799U105,RU0008926258,B5BHQP1,77700,77797.64375,0.00000,0.419945,RUB,1.000000,,,,,,,
+EQUITY,SURGUTNEFTEGAZ PREF,,X8799U113,RU0009029524,B5BHR47,71700,71737.81250,0.00000,0.621347,RUB,1.000000,,,,,,,
+EQUITY,TATNEFT,,X89366102,RU0009033591,B59BXN2,6800,6805.82812,0.00000,11.284230,RUB,1.000000,,,,,,,
+EQUITY,TRANSNEFT PREF,,X9191K109,RU0009091573,B59NHY7,0,5.17187,0.00000,2556.054654,RUB,1.000000,,,,,,,
+EQUITY,X5 RETAIL GROUP GDR NV,,98387E205,US98387E2054,B516L19,1602,1602.18437,0.00000,27.402409,RUB,1.000000,,,,,,,
+,,,,,,928558,31035380.85950,0.00000
+
+Holdings: Synthetics
+ASSET CLASS,NAME,RIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),PRICE MULTIPLIER,CONTRACT SIZE,AVERAGE CONTRACT OPEN PRICE,BLOOMBERG TICKER
+
+FX Rates
+Base Currency,USD
+GBP,1.295901
+RUB,0.015036
+
+FX Forwards
+Currency Pair,Value Date,Nominal,Rate,Value,Currency
+
+Swaps
+Swap Notional,
+Swap Spread,
+Swap Mkt Value,
+
+Disclaimers
+CAREFULLY CONSIDER THE FUNDS INVESTMENT OBJECTIVES RISK FACTORS AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS
+PROSPECTUSES OR IF AVAILABLE THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING www.iShares.com OR www.blackrock.com. READ THE PROSPECTUS CAREFULLY BEFORE
+INVESTING. INVESTING INVOLVES RISK INCLUDING POSSIBLE LOSS OF PRINCIPAL.
+The iShares Funds are distributed by BlackRock Investments LLC (together with its affiliates BlackRock).
+The iShares Funds are not sponsored endorsed issued sold or promoted by Barclays Bloomberg Finance L.P. BlackRock Index Services LLC Cohen & Steers Capital Management Inc. European Public Real Estate
+Association (EPRA) FTSE International Limited (FTSE) ICE Data Services LLC India Index Services & Products Limited JPMorgan Chase & Co. Japan Exchange Group MSCI Inc. Markit Indices Limited Morningstar
+Inc. The NASDAQ OMX Group Inc. National Association of Real Estate Investment Trusts (NAREIT) New York Stock Exchange Inc. Russell or S&P Dow Jones Indices LLC. None of these companies make any
+representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services LLC who is an affiliate BlackRock Investments LLC is not affiliated with the companies listed above.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE NAREIT Equity REITS Index FTSE NAREIT All Residential Capped Index or FTSE NAREIT All Mortgage Capped Index; all rights vest in NAREIT.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE EPRA/NAREIT Developed Real Estate ex-U.S. Index FTSE EPRA/NAREIT Developed Europe Index or FTSE EPRA/NAREIT Global REIT Index;
+all rights vest in FTSE NAREIT and EPRA. FTSE is a trademark of London Stock Exchange Group companies and is used by FTSE under license.
+As a prior condition to gaining access to information for certain BlackRock funds and iShares ETFs (the Data) on a BlackRock operated FTP site (the FTP Site) you as the user of the FTP Site must acknowledge
+and agree to these Terms of Use available for download at https://www.ishares.com/us/literature/holdings/fdf-terms-of-use.pdf.
+By accessing the FTP Site downloading or using the Data from the FTP Site and/or producing any derivative works or materials based on or incorporating any Data you acknowledge and agree to these Terms of Use which
+apply to the access download and use of the Data from the FTP Site. If you do not wish to be bound by these Terms of Use please do not access the FTP Site download or use any of the Data contained in the FTP Site.
+Copyright 2019 BlackRock. All rights reserved. iShares and BlackRock are registered trademarks of BlackRock. All other trademarks servicemarks or registered trademarks are the property of their respective owners.
+ICRMH0119U-694529-1/1

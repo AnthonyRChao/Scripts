@@ -1,0 +1,93 @@
+Fund Level
+Fund Name,iShares Adaptive Currency Hedged MSCI EAFE ETF
+Fund Ticker,DEFA
+Fund ISIN,US46435G6567
+Fund Cusip,46435G656
+Fund LEI,
+Total NAV per share,25.581567,Jan 22 2019
+Distribution per Share,,
+Fund Size,7674470.10,Jan 22 2019
+Shares Outstanding,300000,Jan 22 2019
+Baskets Outstanding,6.000000000000,Jan 22 2019
+Share Class Apportionment Ratio,1
+Exposure Basket,NO
+Total Expense Ratio,
+
+Basket Level
+Trade Date,Jan 23 2019
+Settlement Date,
+Shares per Basket (PNU),50000
+Projected Transaction Fee,,
+Confirmed Transaction Fee,,
+Projected Cash for Pricing Basket,-310.6,Jan 23 2019
+Projected Cash for Deliverable Basket,-269.85,Jan 23 2019
+Confirmed Cash for Deliverable Basket,-407.73,Jan 22 2019
+Metal Entitlement,,
+
+Spreads
+Type,Bid Spread,Offer Spread, Threshold
+
+Allocation Details
+Allocation Type,Allocation Weight
+
+Holdings: Securities
+ASSET CLASS,NAME,MIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),LOCAL CURRENCY,FACTOR,ACCRUED INCOME,ALT ID1 TYPE, ALT ID1 VALUE,ALT ID2 TYPE, ALT ID2 VALUE,ALT ID3 TYPE, ALT ID3 VALUE
+EQUITY,ISHARES MSCI EAFE ETF,,464287465,US4642874659,2801290,20934,20934.66666,0.00000,61.120000,USD,1.000000,,,,,,,
+,,,,,,20934,20934.66666,0.00000
+
+Holdings: Synthetics
+ASSET CLASS,NAME,RIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),PRICE MULTIPLIER,CONTRACT SIZE,AVERAGE CONTRACT OPEN PRICE,BLOOMBERG TICKER
+
+FX Rates
+Base Currency,USD
+
+FX Forwards
+Currency Pair,Value Date,Nominal,Rate,Value,Currency
+USDAUD,20190204,64364.070,1.000000,64364.070,USD
+AUDUSD,20190204,-91166.660,0.711850,-64896.990,USD
+USDCHF,20190204,26885.230,1.000000,26885.230,USD
+CHFUSD,20190204,-26166.660,1.002506,-26232.240,USD
+USDDKK,20190204,16210.420,1.000000,16210.420,USD
+DKKUSD,20190204,-105333.330,0.152090,-16020.150,USD
+USDEUR,20190204,289090.840,1.000000,289090.840,USD
+EURUSD,20190204,-251500.000,1.135600,-285603.400,USD
+USDGBP,20190204,156253.690,1.000000,156253.690,USD
+GBPUSD,20190204,-123000.000,1.295500,-159346.500,USD
+USDHKD,20190204,32694.170,1.000000,32694.170,USD
+HKDUSD,20190204,-255833.330,0.127462,-32608.920,USD
+USDILS,20190204,2621.040,1.000000,2621.040,USD
+ILSUSD,20190204,-9833.330,0.271518,-2669.920,USD
+USDJPY,20190204,226517.570,1.000000,226517.570,USD
+JPYUSD,20190204,-24937333.330,0.009140,-227935.950,USD
+USDNOK,20190204,6717.360,1.000000,6717.360,USD
+NOKUSD,20190204,-58500.000,0.116264,-6801.410,USD
+USDNZD,20190204,1456.060,1.000000,1456.060,USD
+NZDUSD,20190204,-2166.660,0.672200,-1456.430,USD
+USDSEK,20190204,16595.640,1.000000,16595.640,USD
+SEKUSD,20190204,-148166.660,0.110771,-16412.630,USD
+USDSGD,20190204,8421.440,1.000000,8421.440,USD
+SGDUSD,20190204,-11500.000,0.735159,-8454.320,USD
+
+Swaps
+Swap Notional,
+Swap Spread,
+Swap Mkt Value,
+
+Disclaimers
+CAREFULLY CONSIDER THE FUNDS INVESTMENT OBJECTIVES RISK FACTORS AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS
+PROSPECTUSES OR IF AVAILABLE THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING www.iShares.com OR www.blackrock.com. READ THE PROSPECTUS CAREFULLY BEFORE
+INVESTING. INVESTING INVOLVES RISK INCLUDING POSSIBLE LOSS OF PRINCIPAL.
+The iShares Funds are distributed by BlackRock Investments LLC (together with its affiliates BlackRock).
+The iShares Funds are not sponsored endorsed issued sold or promoted by Barclays Bloomberg Finance L.P. BlackRock Index Services LLC Cohen & Steers Capital Management Inc. European Public Real Estate
+Association (EPRA) FTSE International Limited (FTSE) ICE Data Services LLC India Index Services & Products Limited JPMorgan Chase & Co. Japan Exchange Group MSCI Inc. Markit Indices Limited Morningstar
+Inc. The NASDAQ OMX Group Inc. National Association of Real Estate Investment Trusts (NAREIT) New York Stock Exchange Inc. Russell or S&P Dow Jones Indices LLC. None of these companies make any
+representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services LLC who is an affiliate BlackRock Investments LLC is not affiliated with the companies listed above.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE NAREIT Equity REITS Index FTSE NAREIT All Residential Capped Index or FTSE NAREIT All Mortgage Capped Index; all rights vest in NAREIT.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE EPRA/NAREIT Developed Real Estate ex-U.S. Index FTSE EPRA/NAREIT Developed Europe Index or FTSE EPRA/NAREIT Global REIT Index;
+all rights vest in FTSE NAREIT and EPRA. FTSE is a trademark of London Stock Exchange Group companies and is used by FTSE under license.
+As a prior condition to gaining access to information for certain BlackRock funds and iShares ETFs (the Data) on a BlackRock operated FTP site (the FTP Site) you as the user of the FTP Site must acknowledge
+and agree to these Terms of Use available for download at https://www.ishares.com/us/literature/holdings/fdf-terms-of-use.pdf.
+By accessing the FTP Site downloading or using the Data from the FTP Site and/or producing any derivative works or materials based on or incorporating any Data you acknowledge and agree to these Terms of Use which
+apply to the access download and use of the Data from the FTP Site. If you do not wish to be bound by these Terms of Use please do not access the FTP Site download or use any of the Data contained in the FTP Site.
+Copyright 2019 BlackRock. All rights reserved. iShares and BlackRock are registered trademarks of BlackRock. All other trademarks servicemarks or registered trademarks are the property of their respective owners.
+ICRMH0119U-694529-1/1

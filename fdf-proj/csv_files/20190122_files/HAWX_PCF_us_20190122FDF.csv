@@ -1,0 +1,113 @@
+Fund Level
+Fund Name,iShares Currency Hedged MSCI ACWI ex U.S. ETF
+Fund Ticker,HAWX
+Fund ISIN,US46435G8472
+Fund Cusip,46435G847
+Fund LEI,
+Total NAV per share,24.740314,Jan 22 2019
+Distribution per Share,,
+Fund Size,45769580.90,Jan 22 2019
+Shares Outstanding,1850000,Jan 22 2019
+Baskets Outstanding,37.000000000000,Jan 22 2019
+Share Class Apportionment Ratio,1
+Exposure Basket,NO
+Total Expense Ratio,
+
+Basket Level
+Trade Date,Jan 23 2019
+Settlement Date,
+Shares per Basket (PNU),50000
+Projected Transaction Fee,,
+Confirmed Transaction Fee,,
+Projected Cash for Pricing Basket,-6982.56,Jan 23 2019
+Projected Cash for Deliverable Basket,-6971.93,Jan 23 2019
+Confirmed Cash for Deliverable Basket,-6970.91,Jan 22 2019
+Metal Entitlement,,
+
+Spreads
+Type,Bid Spread,Offer Spread, Threshold
+
+Allocation Details
+Allocation Type,Allocation Weight
+
+Holdings: Securities
+ASSET CLASS,NAME,MIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),LOCAL CURRENCY,FACTOR,ACCRUED INCOME,ALT ID1 TYPE, ALT ID1 VALUE,ALT ID2 TYPE, ALT ID2 VALUE,ALT ID3 TYPE, ALT ID3 VALUE
+EQUITY,ISHARES MSCI ACWI EX US ETF,,464288240,US4642882405,B2QKQP4,28460,28460.24324,0.00000,43.710000,USD,1.000000,,,,,,,
+,,,,,,28460,28460.24324,0.00000
+
+Holdings: Synthetics
+ASSET CLASS,NAME,RIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),PRICE MULTIPLIER,CONTRACT SIZE,AVERAGE CONTRACT OPEN PRICE,BLOOMBERG TICKER
+
+FX Rates
+Base Currency,USD
+
+FX Forwards
+Currency Pair,Value Date,Nominal,Rate,Value,Currency
+USDAUD,20190201,56057.550,1.000000,56057.550,USD
+AUDUSD,20190201,-79567.560,0.711850,-56640.170,USD
+USDBRL,20190201,22978.190,1.000000,22978.190,USD
+BRLUSD,20190201,-90513.510,0.262774,-23784.600,USD
+USDCAD,20190201,77180.740,1.000000,77180.740,USD
+CADUSD,20190201,-104972.970,0.748867,-78610.830,USD
+USDCHF,20190201,69517.930,1.000000,69517.930,USD
+CHFUSD,20190201,-68756.750,1.002506,-68929.070,USD
+USDCLP,20190201,4643.540,1.000000,4643.540,USD
+CLPUSD,20190201,-3225081.080,0.001484,-4786.580,USD
+USDDKK,20190201,14074.950,1.000000,14074.950,USD
+DKKUSD,20190201,-92054.050,0.152090,-14000.510,USD
+USDEUR,20190201,257007.750,1.000000,257007.750,USD
+EURUSD,20190201,-225081.080,1.135600,-255602.070,USD
+USDGBP,20190201,135974.970,1.000000,135974.970,USD
+GBPUSD,20190201,-107486.480,1.295500,-139248.740,USD
+USDHKD,20190201,100529.330,1.000000,100529.330,USD
+HKDUSD,20190201,-786864.860,0.127462,-100295.050,USD
+USDILS,20190201,2269.440,1.000000,2269.440,USD
+ILSUSD,20190201,-8567.560,0.271518,-2326.240,USD
+USDINR,20190201,29086.710,1.000000,29086.710,USD
+INRUSD,20190201,-2051756.750,0.014001,-28726.530,USD
+USDJPY,20190201,196863.310,1.000000,196863.310,USD
+JPYUSD,20190201,-21786891.890,0.009140,-199139.810,USD
+USDKRW,20190201,53125.790,1.000000,53125.790,USD
+KRWUSD,20190201,-59600000.000,0.000884,-52713.040,USD
+USDMXN,20190201,8511.620,1.000000,8511.620,USD
+MXNUSD,20190201,-170216.210,0.052094,-8867.270,USD
+USDNOK,20190201,5839.200,1.000000,5839.200,USD
+NOKUSD,20190201,-51135.130,0.116264,-5945.150,USD
+USDNZD,20190201,1867.400,1.000000,1867.400,USD
+NZDUSD,20190201,-2783.780,0.672200,-1871.250,USD
+USDRUB,20190201,9893.830,1.000000,9893.830,USD
+RUBUSD,20190201,-689000.000,0.015031,-10356.230,USD
+USDSEK,20190201,21504.270,1.000000,21504.270,USD
+SEKUSD,20190201,-194108.100,0.110771,-21501.620,USD
+USDSGD,20190201,10927.750,1.000000,10927.750,USD
+SGDUSD,20190201,-15000.000,0.735159,-11027.380,USD
+USDTRY,20190201,1936.880,1.000000,1936.880,USD
+TRYUSD,20190201,-10432.430,0.187222,-1953.180,USD
+USDTWD,20190201,50186.110,1.000000,50186.110,USD
+TWDUSD,20190201,-1541675.670,0.032366,-49897.260,USD
+USDZAR,20190201,19163.600,1.000000,19163.600,USD
+ZARUSD,20190201,-279270.270,0.071550,-19981.770,USD
+
+Swaps
+Swap Notional,
+Swap Spread,
+Swap Mkt Value,
+
+Disclaimers
+CAREFULLY CONSIDER THE FUNDS INVESTMENT OBJECTIVES RISK FACTORS AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS
+PROSPECTUSES OR IF AVAILABLE THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING www.iShares.com OR www.blackrock.com. READ THE PROSPECTUS CAREFULLY BEFORE
+INVESTING. INVESTING INVOLVES RISK INCLUDING POSSIBLE LOSS OF PRINCIPAL.
+The iShares Funds are distributed by BlackRock Investments LLC (together with its affiliates BlackRock).
+The iShares Funds are not sponsored endorsed issued sold or promoted by Barclays Bloomberg Finance L.P. BlackRock Index Services LLC Cohen & Steers Capital Management Inc. European Public Real Estate
+Association (EPRA) FTSE International Limited (FTSE) ICE Data Services LLC India Index Services & Products Limited JPMorgan Chase & Co. Japan Exchange Group MSCI Inc. Markit Indices Limited Morningstar
+Inc. The NASDAQ OMX Group Inc. National Association of Real Estate Investment Trusts (NAREIT) New York Stock Exchange Inc. Russell or S&P Dow Jones Indices LLC. None of these companies make any
+representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services LLC who is an affiliate BlackRock Investments LLC is not affiliated with the companies listed above.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE NAREIT Equity REITS Index FTSE NAREIT All Residential Capped Index or FTSE NAREIT All Mortgage Capped Index; all rights vest in NAREIT.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE EPRA/NAREIT Developed Real Estate ex-U.S. Index FTSE EPRA/NAREIT Developed Europe Index or FTSE EPRA/NAREIT Global REIT Index;
+all rights vest in FTSE NAREIT and EPRA. FTSE is a trademark of London Stock Exchange Group companies and is used by FTSE under license.
+As a prior condition to gaining access to information for certain BlackRock funds and iShares ETFs (the Data) on a BlackRock operated FTP site (the FTP Site) you as the user of the FTP Site must acknowledge
+and agree to these Terms of Use available for download at https://www.ishares.com/us/literature/holdings/fdf-terms-of-use.pdf.
+By accessing the FTP Site downloading or using the Data from the FTP Site and/or producing any derivative works or materials based on or incorporating any Data you acknowledge and agree to these Terms of Use which
+apply to the access download and use of the Data from the FTP Site. If you do not wish to be bound by these Terms of Use please do not access the FTP Site download or use any of the Data contained in the FTP Site.
+Copyright 2019 BlackRock. All rights reserved. iShares and BlackRock are registered trademarks of BlackRock. All other trademarks servicemarks or registered trademarks are the property of their respective owners.
+ICRMH0119U-694529-1/1

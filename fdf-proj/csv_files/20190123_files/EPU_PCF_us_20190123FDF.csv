@@ -1,0 +1,99 @@
+Fund Level
+Fund Name,iShares MSCI Peru ETF
+Fund Ticker,EPU
+Fund ISIN,US4642898427
+Fund Cusip,464289842
+Fund LEI,
+Total NAV per share,36.051113,Jan 23 2019
+Distribution per Share,,
+Fund Size,147809563.30,Jan 23 2019
+Shares Outstanding,4100000,Jan 23 2019
+Baskets Outstanding,82.000000000000,Jan 23 2019
+Share Class Apportionment Ratio,1
+Exposure Basket,NO
+Total Expense Ratio,
+
+Basket Level
+Trade Date,Jan 24 2019
+Settlement Date,
+Shares per Basket (PNU),50000
+Projected Transaction Fee,,
+Confirmed Transaction Fee,,
+Projected Cash for Pricing Basket,1040.6,Jan 24 2019
+Projected Cash for Deliverable Basket,1295.73,Jan 24 2019
+Confirmed Cash for Deliverable Basket,1324.45,Jan 23 2019
+Metal Entitlement,,
+
+Spreads
+Type,Bid Spread,Offer Spread, Threshold
+
+Allocation Details
+Allocation Type,Allocation Weight
+
+Holdings: Securities
+ASSET CLASS,NAME,MIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),LOCAL CURRENCY,FACTOR,ACCRUED INCOME,ALT ID1 TYPE, ALT ID1 VALUE,ALT ID2 TYPE, ALT ID2 VALUE,ALT ID3 TYPE, ALT ID3 VALUE
+EQUITY,ALICORP,,P0161K103,PEP214001005,2162834,27073,27073.21951,0.00000,3.058929,PEN,1.000000,,,,,,,
+EQUITY,BCO CONTINENTAL SA,,P16250105,PEP116001004,2080174,42097,42097.62195,0.00000,1.139601,PEN,1.000000,,,,,,,
+EQUITY,BOLSA DE VALORES DE LIMA CLASS A,,P17674113,PEP900001103,2315575,14944,14944.29268,0.00000,0.887689,PEN,1.000000,,,,,,,
+EQUITY,BUENAVENTURA ADR REPRESENTING,,204448104,US2044481040,2210476,12157,12157.14634,0.00000,15.280000,USD,1.000000,,,,,,,
+EQUITY,CASA GRANDE,,P3708P106,PEP771461006,2037653,8175,8175.01219,0.00000,1.196581,PEN,1.000000,,,,,,,
+EQUITY,CEMENTOS PACASMAYO SAA,,P7316X104,PEP239501005,2441674,26835,26835.30485,0.00000,1.949318,PEN,1.000000,,,,,,,
+EQUITY,CERRO VERDE,,P87175108,PEP646501002,2677929,1855,1855.00000,0.00000,20.000000,USD,1.000000,,,,,,,
+EQUITY,COMPANIA MINERA ATACOCHA B,,P6671N115,PEP608004201,B1RMJH5,78617,78617.32926,0.00000,0.094467,PEN,1.000000,,,,,,,
+EQUITY,CREDICORP LTD,,G2519Y108,BMG2519Y1084,2232878,1801,1801.79268,0.00000,234.410000,USD,1.000000,,,,,,,
+EQUITY,ENEL DISTRIBUCION PERU,,P3709R127,PEP701011004,B0QGZK6,11706,11706.00000,0.00000,1.580447,PEN,1.000000,,,,,,,
+EQUITY,FALABELLA SACI,,P3880F108,CLP3880F1085,2771672,6335,6335.47560,0.00000,7.836256,CLP,1.000000,,,,,,,
+EQUITY,FERREYROS SAA,,P39238103,PEP736001004,2320126,100620,100620.58536,0.00000,0.740741,PEN,1.000000,,,,,,,
+EQUITY,GRANA Y MONTERO,,P4902L107,PEP736581005,2096580,53650,53650.53658,0.00000,0.587794,PEN,1.000000,,,,,,,
+EQUITY,HOCHSCHILD MINING PLC,,G4611M107,GB00B1FW5029,B1FW502,27734,27734.98780,0.00000,2.161107,GBP,1.000000,,,,,,,
+EQUITY,INRETAIL PERU CORP,,P56242202,PAL1801171A1,B7YYJD2,3171,3171.53658,0.00000,32.500000,USD,1.000000,,,,,,,
+EQUITY,INTERGROUP FINANCIAL SERVICES INC,,P5626F102,PAP5626F1020,B1YZ331,2056,2056.32926,0.00000,43.500000,USD,1.000000,,,,,,,
+EQUITY,LUZ DEL SUR,,P6396R110,PEP702521001,2485263,10179,10179.57317,0.00000,3.238866,PEN,1.000000,,,,,,,
+EQUITY,MINSUR I SA,,P6811T105,PEP622005002,2595797,77494,77494.68292,0.00000,0.434848,PEN,1.000000,,,,,,,
+EQUITY,NEXA RESOURCES PERU,,P67848153,PEP620001003,2166698,37588,37588.84146,0.00000,1.196581,PEN,1.000000,,,,,,,
+EQUITY,PAN AMERICAN SILVER CORP,,697900108,CA6979001089,2669272,3299,3299.31707,0.00000,13.304882,CAD,1.000000,,,,,,,
+EQUITY,REFINERIA LA PAMPILLA,,P80053104,PEP521051107,2351933,259610,259610.65853,0.00000,0.040486,PEN,1.000000,,,,,,,
+EQUITY,REFINERIA LA PAMPILLA SA RELAPASA,,,PEP521056122,BG5Q7G9,0,0.00000,350474.37804,0.000003,PEN,1.000000,,,,,,,
+EQUITY,SOUTHERN COPPER CORP,,84265V105,US84265V1052,2823777,5518,5518.52439,0.00000,31.200000,USD,1.000000,,,,,,,
+EQUITY,TAHOE RESOURCES INC,,873868103,CA8738681037,B5B9KV1,11110,11110.62195,0.00000,3.466607,CAD,1.000000,,,,,,,
+EQUITY,TREVALI MINING CORP,,89531J109,CA89531J1093,B66J1R6,97818,97818.24390,0.00000,0.243336,CAD,1.000000,,,,,,,
+EQUITY,UNION ANDINA DE CEMENTOS,,P9451Y103,PEP239001006,2185648,72915,72915.57317,0.00000,0.734743,PEN,1.000000,,,,,,,
+EQUITY,VOLCAN COMPANIA MINERA B PREF,,P98047114,PEP648014202,2236063,278867,278867.12195,0.00000,0.221922,PEN,1.000000,,,,,,,
+,,,,,,1273224,1273235.32915,350474.37804
+
+Holdings: Synthetics
+ASSET CLASS,NAME,RIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),PRICE MULTIPLIER,CONTRACT SIZE,AVERAGE CONTRACT OPEN PRICE,BLOOMBERG TICKER
+
+FX Rates
+Base Currency,USD
+CAD,0.748727
+CLP,0.001487
+GBP,1.306199
+PEN,0.299895
+
+FX Forwards
+Currency Pair,Value Date,Nominal,Rate,Value,Currency
+
+Swaps
+Swap Notional,
+Swap Spread,
+Swap Mkt Value,
+
+Disclaimers
+CAREFULLY CONSIDER THE FUNDS INVESTMENT OBJECTIVES RISK FACTORS AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS
+PROSPECTUSES OR IF AVAILABLE THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING www.iShares.com OR www.blackrock.com. READ THE PROSPECTUS CAREFULLY BEFORE
+INVESTING. INVESTING INVOLVES RISK INCLUDING POSSIBLE LOSS OF PRINCIPAL.
+The iShares Funds are distributed by BlackRock Investments LLC (together with its affiliates BlackRock).
+The iShares Funds are not sponsored endorsed issued sold or promoted by Barclays Bloomberg Finance L.P. BlackRock Index Services LLC Cohen & Steers Capital Management Inc. European Public Real Estate
+Association (EPRA) FTSE International Limited (FTSE) ICE Data Services LLC India Index Services & Products Limited JPMorgan Chase & Co. Japan Exchange Group MSCI Inc. Markit Indices Limited Morningstar
+Inc. The NASDAQ OMX Group Inc. National Association of Real Estate Investment Trusts (NAREIT) New York Stock Exchange Inc. Russell or S&P Dow Jones Indices LLC. None of these companies make any
+representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services LLC who is an affiliate BlackRock Investments LLC is not affiliated with the companies listed above.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE NAREIT Equity REITS Index FTSE NAREIT All Residential Capped Index or FTSE NAREIT All Mortgage Capped Index; all rights vest in NAREIT.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE EPRA/NAREIT Developed Real Estate ex-U.S. Index FTSE EPRA/NAREIT Developed Europe Index or FTSE EPRA/NAREIT Global REIT Index;
+all rights vest in FTSE NAREIT and EPRA. FTSE is a trademark of London Stock Exchange Group companies and is used by FTSE under license.
+As a prior condition to gaining access to information for certain BlackRock funds and iShares ETFs (the Data) on a BlackRock operated FTP site (the FTP Site) you as the user of the FTP Site must acknowledge
+and agree to these Terms of Use available for download at https://www.ishares.com/us/literature/holdings/fdf-terms-of-use.pdf.
+By accessing the FTP Site downloading or using the Data from the FTP Site and/or producing any derivative works or materials based on or incorporating any Data you acknowledge and agree to these Terms of Use which
+apply to the access download and use of the Data from the FTP Site. If you do not wish to be bound by these Terms of Use please do not access the FTP Site download or use any of the Data contained in the FTP Site.
+Copyright 2019 BlackRock. All rights reserved. iShares and BlackRock are registered trademarks of BlackRock. All other trademarks servicemarks or registered trademarks are the property of their respective owners.
+ICRMH0119U-694529-1/1

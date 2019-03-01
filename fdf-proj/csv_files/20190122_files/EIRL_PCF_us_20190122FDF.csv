@@ -1,0 +1,97 @@
+Fund Level
+Fund Name,iShares MSCI Ireland ETF
+Fund Ticker,EIRL
+Fund ISIN,US46429B5075
+Fund Cusip,46429B507
+Fund LEI,
+Total NAV per share,39.569630,Jan 22 2019
+Distribution per Share,,
+Fund Size,57375963.50,Jan 22 2019
+Shares Outstanding,1450000,Jan 22 2019
+Baskets Outstanding,29.000000000000,Jan 22 2019
+Share Class Apportionment Ratio,1
+Exposure Basket,NO
+Total Expense Ratio,
+
+Basket Level
+Trade Date,Jan 23 2019
+Settlement Date,
+Shares per Basket (PNU),50000
+Projected Transaction Fee,,
+Confirmed Transaction Fee,,
+Projected Cash for Pricing Basket,2855.47,Jan 23 2019
+Projected Cash for Deliverable Basket,2964.36,Jan 23 2019
+Confirmed Cash for Deliverable Basket,3089.61,Jan 22 2019
+Metal Entitlement,,
+
+Spreads
+Type,Bid Spread,Offer Spread, Threshold
+
+Allocation Details
+Allocation Type,Allocation Weight
+
+Holdings: Securities
+ASSET CLASS,NAME,MIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),LOCAL CURRENCY,FACTOR,ACCRUED INCOME,ALT ID1 TYPE, ALT ID1 VALUE,ALT ID2 TYPE, ALT ID2 VALUE,ALT ID3 TYPE, ALT ID3 VALUE
+EQUITY,AIB GROUP,,G0R4HJ106,IE00BF0L3536,BF0L353,20754,20785.65517,0.00000,4.501717,EUR,1.000000,,,,,,,
+EQUITY,APPLEGREEN PLC,,G04145101,IE00BXC8D038,BXC8D03,4208,4208.55172,0.00000,6.700335,EUR,1.000000,,,,,,,
+EQUITY,BANK OF IRELAND GROUP PLC,,G0756R109,IE00BD1RP616,BD1RP61,13573,13605.62068,0.00000,6.297179,EUR,1.000000,,,,,,,
+EQUITY,C C GROUP PLC,,G1826G107,IE00B010DT83,B011Y09,12926,12926.79310,0.00000,3.554584,EUR,1.000000,,,,,,,
+EQUITY,CAIRN HOMES PLC,,G1858L107,IE00BWY4ZF18,BF2NP06,27781,27915.86206,0.00000,1.453632,EUR,1.000000,,,,,,,
+EQUITY,CPL RESOURCES PLC,,G4817M109,IE0007214426,5723830,370,370.24137,0.00000,6.700335,EUR,1.000000,,,,,,,
+EQUITY,CRH PLC,,G25508105,IE0001827041,4182249,16087,16110.62068,0.00000,28.675162,EUR,1.000000,,,,,,,
+EQUITY,DALATA HOTEL GROUP PLC,,G2630L100,IE00BJMZDW83,BJMZDW8,7388,7388.51724,0.00000,6.302857,EUR,1.000000,,,,,,,
+EQUITY,DATALEX PLC,,G2659W102,IE0000527006,0052700,1386,1386.51724,0.00000,1.362780,EUR,1.000000,,,,,,,
+EQUITY,FBD HOLDINGS PLC,,G3335G107,IE0003290289,4330231,509,509.03448,0.00000,9.766590,EUR,1.000000,,,,,,,
+EQUITY,GLANBIA PLC,,G39021103,IE0000669501,4058629,4731,4736.48275,0.00000,18.681442,EUR,1.000000,,,,,,,
+EQUITY,GLENVEAGH PROPERTIES PLC,,G39155109,IE00BD6JX574,BD6JX57,34864,35036.00000,0.00000,0.959624,EUR,1.000000,,,,,,,
+EQUITY,GRAFTON GROUP UNITS PLC,,G4035Q189,IE00B00MZ448,B00MZ44,6991,6991.24137,0.00000,9.654461,GBP,1.000000,,,,,,,
+EQUITY,GREEN REIT PLC,,G40968102,IE00BBR67J55,BBR67J5,26050,26103.93103,0.00000,1.642150,EUR,1.000000,,,,,,,
+EQUITY,HIBERNIA REIT PLC,,G4432Z105,IE00BGHQ1986,BGHQ198,27303,27303.89655,0.00000,1.453632,EUR,1.000000,,,,,,,
+EQUITY,ICON PLC,,G4705A100,IE0005711209,B94G471,655,656.06896,0.00000,132.280000,USD,1.000000,,,,,,,
+EQUITY,IFG GROUP PLC,,G47062107,IE0002325243,4373355,1865,1865.34482,0.00000,1.703475,EUR,1.000000,,,,,,,
+EQUITY,IRISH CONTINENTAL GROUP UNITS PLC,,G49406179,IE00BLP58571,BLP5857,3350,3350.75862,0.00000,5.564685,EUR,1.000000,,,,,,,
+EQUITY,IRISH RESIDENTIAL PROPERTIES PLC,,G49456109,IE00BJ34P519,BJ34P51,20009,20009.68965,0.00000,1.626251,EUR,1.000000,,,,,,,
+EQUITY,KERRY GROUP PLC,,G52416107,IE0004906560,4519579,3112,3117.20689,0.00000,104.252668,EUR,1.000000,,,,,,,
+EQUITY,KINGSPAN GROUP PLC,,G52654103,IE0004927939,4491235,2019,2022.86206,0.00000,43.631672,EUR,1.000000,,,,,,,
+EQUITY,ORIGIN ENTERPRISES PLC,,G68097107,IE00B1WV4493,B1YC2Y6,5488,5514.06896,0.00000,6.643552,EUR,1.000000,,,,,,,
+EQUITY,PADDY POWER BETFAIR PLC,,G68673113,IE00BWT6H894,BWT6H89,1361,1363.55172,0.00000,79.949759,EUR,1.000000,,,,,,,
+EQUITY,PERMANENT TSB GROUP HOLDINGS PLC,,G7015D110,IE00BWB8X525,BWB8X52,11961,11961.75862,0.00000,1.817040,EUR,1.000000,,,,,,,
+EQUITY,RYANAIR HOLDINGS ADR REPRESENTING,,783513203,US7835132033,BYYN585,796,752.37931,0.00000,69.090000,USD,1.000000,,,,,,,
+EQUITY,SMURFIT KAPPA GROUP PLC,,G8248F104,IE00B1RR8406,B1RR828,3182,3187.27586,0.00000,27.777999,EUR,1.000000,,,,,,,
+EQUITY,TOTAL PRODUCE PLC,,G8983Q109,IE00B1HDWM43,B1L9ZC9,15507,15584.37931,0.00000,1.879501,EUR,1.000000,,,,,,,
+,,,,,,274226,274764.31022,0.00000
+
+Holdings: Synthetics
+ASSET CLASS,NAME,RIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),PRICE MULTIPLIER,CONTRACT SIZE,AVERAGE CONTRACT OPEN PRICE,BLOOMBERG TICKER
+
+FX Rates
+Base Currency,USD
+EUR,1.135650
+GBP,1.295901
+
+FX Forwards
+Currency Pair,Value Date,Nominal,Rate,Value,Currency
+
+Swaps
+Swap Notional,
+Swap Spread,
+Swap Mkt Value,
+
+Disclaimers
+CAREFULLY CONSIDER THE FUNDS INVESTMENT OBJECTIVES RISK FACTORS AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS
+PROSPECTUSES OR IF AVAILABLE THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING www.iShares.com OR www.blackrock.com. READ THE PROSPECTUS CAREFULLY BEFORE
+INVESTING. INVESTING INVOLVES RISK INCLUDING POSSIBLE LOSS OF PRINCIPAL.
+The iShares Funds are distributed by BlackRock Investments LLC (together with its affiliates BlackRock).
+The iShares Funds are not sponsored endorsed issued sold or promoted by Barclays Bloomberg Finance L.P. BlackRock Index Services LLC Cohen & Steers Capital Management Inc. European Public Real Estate
+Association (EPRA) FTSE International Limited (FTSE) ICE Data Services LLC India Index Services & Products Limited JPMorgan Chase & Co. Japan Exchange Group MSCI Inc. Markit Indices Limited Morningstar
+Inc. The NASDAQ OMX Group Inc. National Association of Real Estate Investment Trusts (NAREIT) New York Stock Exchange Inc. Russell or S&P Dow Jones Indices LLC. None of these companies make any
+representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services LLC who is an affiliate BlackRock Investments LLC is not affiliated with the companies listed above.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE NAREIT Equity REITS Index FTSE NAREIT All Residential Capped Index or FTSE NAREIT All Mortgage Capped Index; all rights vest in NAREIT.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE EPRA/NAREIT Developed Real Estate ex-U.S. Index FTSE EPRA/NAREIT Developed Europe Index or FTSE EPRA/NAREIT Global REIT Index;
+all rights vest in FTSE NAREIT and EPRA. FTSE is a trademark of London Stock Exchange Group companies and is used by FTSE under license.
+As a prior condition to gaining access to information for certain BlackRock funds and iShares ETFs (the Data) on a BlackRock operated FTP site (the FTP Site) you as the user of the FTP Site must acknowledge
+and agree to these Terms of Use available for download at https://www.ishares.com/us/literature/holdings/fdf-terms-of-use.pdf.
+By accessing the FTP Site downloading or using the Data from the FTP Site and/or producing any derivative works or materials based on or incorporating any Data you acknowledge and agree to these Terms of Use which
+apply to the access download and use of the Data from the FTP Site. If you do not wish to be bound by these Terms of Use please do not access the FTP Site download or use any of the Data contained in the FTP Site.
+Copyright 2019 BlackRock. All rights reserved. iShares and BlackRock are registered trademarks of BlackRock. All other trademarks servicemarks or registered trademarks are the property of their respective owners.
+ICRMH0119U-694529-1/1

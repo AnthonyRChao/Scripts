@@ -1,0 +1,95 @@
+Fund Level
+Fund Name,iShares U.S. Broker-Dealers & Securities Exchanges ETF
+Fund Ticker,IAI
+Fund ISIN,US4642887941
+Fund Cusip,464288794
+Fund LEI,
+Total NAV per share,60.632430,Jan 22 2019
+Distribution per Share,,
+Fund Size,227371612.50,Jan 22 2019
+Shares Outstanding,3750000,Jan 22 2019
+Baskets Outstanding,75.000000000000,Jan 22 2019
+Share Class Apportionment Ratio,1
+Exposure Basket,NO
+Total Expense Ratio,
+
+Basket Level
+Trade Date,Jan 23 2019
+Settlement Date,
+Shares per Basket (PNU),50000
+Projected Transaction Fee,,
+Confirmed Transaction Fee,,
+Projected Cash for Pricing Basket,4363.5,Jan 23 2019
+Projected Cash for Deliverable Basket,4416.91,Jan 23 2019
+Confirmed Cash for Deliverable Basket,4451.17,Jan 22 2019
+Metal Entitlement,,
+
+Spreads
+Type,Bid Spread,Offer Spread, Threshold
+
+Allocation Details
+Allocation Type,Allocation Weight
+
+Holdings: Securities
+ASSET CLASS,NAME,MIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),LOCAL CURRENCY,FACTOR,ACCRUED INCOME,ALT ID1 TYPE, ALT ID1 VALUE,ALT ID2 TYPE, ALT ID2 VALUE,ALT ID3 TYPE, ALT ID3 VALUE
+EQUITY,BGC PARTNERS INC CLASS A,,05541T101,US05541T1016,2528168,9003,9002.74667,0.00000,6.220000,USD,1.000000,,,,,,,
+EQUITY,CBOE GLOBAL MARKETS INC,,12503M108,US12503M1080,B5834C5,1238,1237.92000,0.00000,97.260000,USD,1.000000,,,,,,,
+EQUITY,CHARLES SCHWAB CORP,,808513105,US8085131055,2779397,5950,5949.96000,0.00000,47.470000,USD,1.000000,,,,,,,
+EQUITY,CME GROUP INC CLASS A,,12572Q105,US12572Q1058,2965839,1516,1515.98667,0.00000,186.330000,USD,1.000000,,,,,,,
+EQUITY,COWEN INC CLASS A,,223622606,US2236226062,BZ1J497,1944,1944.01333,0.00000,15.120000,USD,1.000000,,,,,,,
+EQUITY,DIAMOND HILL INVESTMENT GROUP INC,,25264R207,US25264R2076,2801137,205,204.85333,0.00000,157.140000,USD,1.000000,,,,,,,
+EQUITY,E TRADE FINANCIAL CORP,,269246401,US2692464017,2299011,2822,2821.62667,0.00000,50.080000,USD,1.000000,,,,,,,
+EQUITY,EVERCORE INC CLASS A,,29977A105,US29977A1051,B1BHXZ2,927,926.80000,0.00000,83.170000,USD,1.000000,,,,,,,
+EQUITY,GOLDMAN SACHS GROUP INC,,38141G104,US38141G1040,2407966,1539,1539.01333,0.00000,197.680000,USD,1.000000,,,,,,,
+EQUITY,GREENHILL INC,,395259104,US3952591044,B00G8B4,1156,1156.40000,0.00000,29.510000,USD,1.000000,,,,,,,
+EQUITY,HOULIHAN LOKEY INC CLASS A,,441593100,US4415931009,BYQ3PM7,1228,1228.01333,0.00000,43.140000,USD,1.000000,,,,,,,
+EQUITY,INTERACTIVE BROKERS GROUP INC CLAS,,45841N107,US45841N1072,B1WT4X2,1504,1504.25333,0.00000,51.950000,USD,1.000000,,,,,,,
+EQUITY,INTERCONTINENTAL EXCHANGE INC,,45866F104,US45866F1049,BFSSDS9,3020,3020.20000,0.00000,75.870000,USD,1.000000,,,,,,,
+EQUITY,INTL FCSTONE INC,,46116V105,US46116V1052,2456441,874,874.37333,0.00000,37.850000,USD,1.000000,,,,,,,
+EQUITY,INVESTMENT TECHNOLOGY GROUP INC,,46145F105,US46145F1057,2472759,1417,1417.37333,0.00000,30.130000,USD,1.000000,,,,,,,
+EQUITY,LAZARD LTD CLASS A,,G54050102,BMG540501027,B081VQ7,2340,2339.64000,0.00000,38.160000,USD,1.000000,,,,,,,
+EQUITY,LPL FINANCIAL HOLDINGS INC,,50212V100,US50212V1008,B75JX34,1497,1496.61333,0.00000,69.290000,USD,1.000000,,,,,,,
+EQUITY,MARKETAXESS HOLDINGS INC,,57060D108,US57060D1081,B03Q9D0,492,492.44000,0.00000,218.300000,USD,1.000000,,,,,,,
+EQUITY,MOELIS CLASS A,,60786M105,US60786M1053,BLG38Q1,1443,1442.97333,0.00000,41.840000,USD,1.000000,,,,,,,
+EQUITY,MORGAN STANLEY,,617446448,US6174464486,2262314,6268,6267.98667,0.00000,42.410000,USD,1.000000,,,,,,,
+EQUITY,NASDAQ INC,,631103108,US6311031081,2965107,1379,1378.88000,0.00000,83.400000,USD,1.000000,,,,,,,
+EQUITY,PIPER JAFFRAY,,724078100,US7240781002,2227089,627,627.34667,0.00000,70.000000,USD,1.000000,,,,,,,
+EQUITY,PJT PARTNERS INC CLASS A,,69343T107,US69343T1079,BYNWB63,900,900.48000,0.00000,42.940000,USD,1.000000,,,,,,,
+EQUITY,RAYMOND JAMES INC,,754730109,US7547301090,2718992,1565,1564.78667,0.00000,79.700000,USD,1.000000,,,,,,,
+EQUITY,STIFEL FINANCIAL CORP,,860630102,US8606301021,2849234,1600,1599.84000,0.00000,47.600000,USD,1.000000,,,,,,,
+EQUITY,TD AMERITRADE HOLDING CORP,,87236Y108,US87236Y1082,2983154,2752,2751.98667,0.00000,54.920000,USD,1.000000,,,,,,,
+EQUITY,VIRTU FINANCIAL INC CLASS A,,928254101,US9282541013,BWTVWD4,2071,2070.74667,0.00000,26.680000,USD,1.000000,,,,,,,
+,,,,,,57277,57277.25333,0.00000
+
+Holdings: Synthetics
+ASSET CLASS,NAME,RIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),PRICE MULTIPLIER,CONTRACT SIZE,AVERAGE CONTRACT OPEN PRICE,BLOOMBERG TICKER
+
+FX Rates
+Base Currency,USD
+
+FX Forwards
+Currency Pair,Value Date,Nominal,Rate,Value,Currency
+
+Swaps
+Swap Notional,
+Swap Spread,
+Swap Mkt Value,
+
+Disclaimers
+CAREFULLY CONSIDER THE FUNDS INVESTMENT OBJECTIVES RISK FACTORS AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS
+PROSPECTUSES OR IF AVAILABLE THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING www.iShares.com OR www.blackrock.com. READ THE PROSPECTUS CAREFULLY BEFORE
+INVESTING. INVESTING INVOLVES RISK INCLUDING POSSIBLE LOSS OF PRINCIPAL.
+The iShares Funds are distributed by BlackRock Investments LLC (together with its affiliates BlackRock).
+The iShares Funds are not sponsored endorsed issued sold or promoted by Barclays Bloomberg Finance L.P. BlackRock Index Services LLC Cohen & Steers Capital Management Inc. European Public Real Estate
+Association (EPRA) FTSE International Limited (FTSE) ICE Data Services LLC India Index Services & Products Limited JPMorgan Chase & Co. Japan Exchange Group MSCI Inc. Markit Indices Limited Morningstar
+Inc. The NASDAQ OMX Group Inc. National Association of Real Estate Investment Trusts (NAREIT) New York Stock Exchange Inc. Russell or S&P Dow Jones Indices LLC. None of these companies make any
+representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services LLC who is an affiliate BlackRock Investments LLC is not affiliated with the companies listed above.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE NAREIT Equity REITS Index FTSE NAREIT All Residential Capped Index or FTSE NAREIT All Mortgage Capped Index; all rights vest in NAREIT.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE EPRA/NAREIT Developed Real Estate ex-U.S. Index FTSE EPRA/NAREIT Developed Europe Index or FTSE EPRA/NAREIT Global REIT Index;
+all rights vest in FTSE NAREIT and EPRA. FTSE is a trademark of London Stock Exchange Group companies and is used by FTSE under license.
+As a prior condition to gaining access to information for certain BlackRock funds and iShares ETFs (the Data) on a BlackRock operated FTP site (the FTP Site) you as the user of the FTP Site must acknowledge
+and agree to these Terms of Use available for download at https://www.ishares.com/us/literature/holdings/fdf-terms-of-use.pdf.
+By accessing the FTP Site downloading or using the Data from the FTP Site and/or producing any derivative works or materials based on or incorporating any Data you acknowledge and agree to these Terms of Use which
+apply to the access download and use of the Data from the FTP Site. If you do not wish to be bound by these Terms of Use please do not access the FTP Site download or use any of the Data contained in the FTP Site.
+Copyright 2019 BlackRock. All rights reserved. iShares and BlackRock are registered trademarks of BlackRock. All other trademarks servicemarks or registered trademarks are the property of their respective owners.
+ICRMH0119U-694529-1/1

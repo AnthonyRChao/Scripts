@@ -1,0 +1,95 @@
+Fund Level
+Fund Name,iShares MSCI Singapore ETF
+Fund Ticker,EWS
+Fund ISIN,US46434G7806
+Fund Cusip,46434G780
+Fund LEI,
+Total NAV per share,23.076655,Jan 23 2019
+Distribution per Share,,
+Fund Size,521532403.00,Jan 23 2019
+Shares Outstanding,22600000,Jan 23 2019
+Baskets Outstanding,452.000000000000,Jan 23 2019
+Share Class Apportionment Ratio,1
+Exposure Basket,NO
+Total Expense Ratio,
+
+Basket Level
+Trade Date,Jan 24 2019
+Settlement Date,
+Shares per Basket (PNU),50000
+Projected Transaction Fee,,
+Confirmed Transaction Fee,,
+Projected Cash for Pricing Basket,96.96,Jan 24 2019
+Projected Cash for Deliverable Basket,352343.53,Jan 24 2019
+Confirmed Cash for Deliverable Basket,352358.83,Jan 23 2019
+Metal Entitlement,,
+
+Spreads
+Type,Bid Spread,Offer Spread, Threshold
+
+Allocation Details
+Allocation Type,Allocation Weight
+
+Holdings: Securities
+ASSET CLASS,NAME,MIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),LOCAL CURRENCY,FACTOR,ACCRUED INCOME,ALT ID1 TYPE, ALT ID1 VALUE,ALT ID2 TYPE, ALT ID2 VALUE,ALT ID3 TYPE, ALT ID3 VALUE
+EQUITY,ASCENDAS REAL ESTATE INVESTMENT TR,,Y0205X103,SG1M77906915,6563875,21000,21083.58628,0.00000,1.971096,SGD,1.000000,,,,,,,
+EQUITY,CAPITALAND,,Y10923103,SG1J27887962,6309303,11600,11600.66371,0.00000,2.405031,SGD,1.000000,,,,,,,
+EQUITY,CAPITALAND COMMERCIAL TRUST,,Y1091N100,SG1P32918333,B011YD2,7600,7669.87389,0.00000,1.345935,SGD,1.000000,,,,,,,
+EQUITY,CAPITALAND MALL TRUST,,Y1100L160,SG1M51904654,6420129,8500,8524.55752,0.00000,1.698967,SGD,1.000000,,,,,,,
+EQUITY,CITY DEVELOPMENTS LTD,,V23130111,SG1R89002252,6197928,3700,3726.10619,0.00000,6.575222,SGD,1.000000,,,,,,,
+EQUITY,COMFORTDELGRO CORPORATION LTD,,Y1690R106,SG1N31909426,6603737,18700,18734.73451,0.00000,1.588644,SGD,1.000000,,,,,,,
+EQUITY,DBS GROUP HOLDINGS LTD,,Y20246107,SG1L01001701,6175203,11200,11214.38053,0.00000,17.769279,SGD,1.000000,,,,,,,
+EQUITY,GENTING SINGAPORE LTD,,Y2692C139,SGXE21576413,BDRTVP2,48500,48561.15486,0.00000,0.801677,SGD,1.000000,,,,,,,
+EQUITY,GOLDEN AGRI RESOURCES LTD,,V39076134,MU0117U00026,6164472,77800,77894.97345,0.00000,0.194903,SGD,1.000000,,,,,,,
+EQUITY,JARDINE CYCLE AND CARRIAGE LTD,,Y43703100,SG1B51001017,6242260,900,935.71681,0.00000,26.845144,SGD,1.000000,,,,,,,
+EQUITY,KEPPEL LTD,,Y4722Z120,SG1U68934629,B1VQ5C0,10800,10812.61061,0.00000,4.493804,SGD,1.000000,,,,,,,
+EQUITY,OVERSEA-CHINESE BANKING LTD,,Y64248209,SG1S04926220,B0F9V20,0,19499.66814,0.00000,8.369801,SGD,1.000000,,,,,,,
+EQUITY,SATS LTD,,Y7992U101,SG1I52882764,6243586,6300,6342.03539,0.00000,3.493546,SGD,1.000000,,,,,,,
+EQUITY,SEMBCORP INDUSTRIES LTD,,Y79711159,SG1R50925390,B08X163,9800,9819.91150,0.00000,1.949031,SGD,1.000000,,,,,,,
+EQUITY,SINGAPORE AIRLINES LTD,,Y7992P128,SG1V61937297,6811734,4500,4520.50221,0.00000,6.987092,SGD,1.000000,,,,,,,
+EQUITY,SINGAPORE EXCHANGE LTD,,Y79946102,SG1J26887955,6303866,6500,6564.38053,0.00000,5.449932,SGD,1.000000,,,,,,,
+EQUITY,SINGAPORE PRESS HOLDINGS LTD,,Y7990F106,SG1P66918738,B012899,0,13895.79646,0.00000,1.846063,SGD,1.000000,,,,,,,
+EQUITY,SINGAPORE TECHNOLOGIES ENGINEERING,,Y7996W103,SG1F60858221,6043214,13000,13080.53097,0.00000,2.662450,SGD,1.000000,,,,,,,
+EQUITY,SINGAPORE TELECOMMUNICATIONS LTD,,Y79985209,SG1T75931496,B02PY22,21800,21857.23008,0.00000,2.228515,SGD,1.000000,,,,,,,
+EQUITY,SUNTEC UNITS TRUST,,Y82954101,SG1Q52922370,B04PZ72,20200,20213.05309,0.00000,1.375354,SGD,1.000000,,,,,,,
+EQUITY,UNITED OVERSEAS BANK LTD,,Y9T10P105,SG1M31001969,6916781,0,8316.15044,0.00000,18.872504,SGD,1.000000,,,,,,,
+EQUITY,UOL GROUP LTD,,Y9299W103,SG1S83002349,6916844,4700,4719.69026,0.00000,4.832126,SGD,1.000000,,,,,,,
+EQUITY,VENTURE CORPORATION LTD,,Y9361F111,SG0531000230,6927374,2300,2307.30088,0.00000,11.164638,SGD,1.000000,,,,,,,
+EQUITY,WILMAR INTERNATIONAL LTD,,Y9586L109,SG1T56930848,B17KC69,15500,15571.01769,0.00000,2.368257,SGD,1.000000,,,,,,,
+EQUITY,YANGZIJIANG SHIPBUILDING HOLDINGS,,Y9728A102,SG1U76934819,B1VT035,24200,24207.07964,0.00000,0.978193,SGD,1.000000,,,,,,,
+,,,,,,349100,391672.70564,0.00000
+
+Holdings: Synthetics
+ASSET CLASS,NAME,RIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),PRICE MULTIPLIER,CONTRACT SIZE,AVERAGE CONTRACT OPEN PRICE,BLOOMBERG TICKER
+FUTURES,MSCI SING IX ETS JAN 19,SSGF9,,,,0,0.12168,0.00000,261.354025,,100,,QZF9
+
+FX Rates
+Base Currency,USD
+SGD,0.735483
+
+FX Forwards
+Currency Pair,Value Date,Nominal,Rate,Value,Currency
+
+Swaps
+Swap Notional,
+Swap Spread,
+Swap Mkt Value,
+
+Disclaimers
+CAREFULLY CONSIDER THE FUNDS INVESTMENT OBJECTIVES RISK FACTORS AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS
+PROSPECTUSES OR IF AVAILABLE THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING www.iShares.com OR www.blackrock.com. READ THE PROSPECTUS CAREFULLY BEFORE
+INVESTING. INVESTING INVOLVES RISK INCLUDING POSSIBLE LOSS OF PRINCIPAL.
+The iShares Funds are distributed by BlackRock Investments LLC (together with its affiliates BlackRock).
+The iShares Funds are not sponsored endorsed issued sold or promoted by Barclays Bloomberg Finance L.P. BlackRock Index Services LLC Cohen & Steers Capital Management Inc. European Public Real Estate
+Association (EPRA) FTSE International Limited (FTSE) ICE Data Services LLC India Index Services & Products Limited JPMorgan Chase & Co. Japan Exchange Group MSCI Inc. Markit Indices Limited Morningstar
+Inc. The NASDAQ OMX Group Inc. National Association of Real Estate Investment Trusts (NAREIT) New York Stock Exchange Inc. Russell or S&P Dow Jones Indices LLC. None of these companies make any
+representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services LLC who is an affiliate BlackRock Investments LLC is not affiliated with the companies listed above.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE NAREIT Equity REITS Index FTSE NAREIT All Residential Capped Index or FTSE NAREIT All Mortgage Capped Index; all rights vest in NAREIT.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE EPRA/NAREIT Developed Real Estate ex-U.S. Index FTSE EPRA/NAREIT Developed Europe Index or FTSE EPRA/NAREIT Global REIT Index;
+all rights vest in FTSE NAREIT and EPRA. FTSE is a trademark of London Stock Exchange Group companies and is used by FTSE under license.
+As a prior condition to gaining access to information for certain BlackRock funds and iShares ETFs (the Data) on a BlackRock operated FTP site (the FTP Site) you as the user of the FTP Site must acknowledge
+and agree to these Terms of Use available for download at https://www.ishares.com/us/literature/holdings/fdf-terms-of-use.pdf.
+By accessing the FTP Site downloading or using the Data from the FTP Site and/or producing any derivative works or materials based on or incorporating any Data you acknowledge and agree to these Terms of Use which
+apply to the access download and use of the Data from the FTP Site. If you do not wish to be bound by these Terms of Use please do not access the FTP Site download or use any of the Data contained in the FTP Site.
+Copyright 2019 BlackRock. All rights reserved. iShares and BlackRock are registered trademarks of BlackRock. All other trademarks servicemarks or registered trademarks are the property of their respective owners.
+ICRMH0119U-694529-1/1

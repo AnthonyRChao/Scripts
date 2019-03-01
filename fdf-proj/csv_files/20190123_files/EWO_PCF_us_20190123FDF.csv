@@ -1,0 +1,96 @@
+Fund Level
+Fund Name,iShares MSCI Austria ETF
+Fund Ticker,EWO
+Fund ISIN,US4642862027
+Fund Cusip,464286202
+Fund LEI,
+Total NAV per share,19.518850,Jan 23 2019
+Distribution per Share,,
+Fund Size,72219745.00,Jan 23 2019
+Shares Outstanding,3700000,Jan 23 2019
+Baskets Outstanding,37.000000000000,Jan 23 2019
+Share Class Apportionment Ratio,1
+Exposure Basket,NO
+Total Expense Ratio,
+
+Basket Level
+Trade Date,Jan 24 2019
+Settlement Date,
+Shares per Basket (PNU),100000
+Projected Transaction Fee,,
+Confirmed Transaction Fee,,
+Projected Cash for Pricing Basket,26578.76,Jan 24 2019
+Projected Cash for Deliverable Basket,27012.28,Jan 24 2019
+Confirmed Cash for Deliverable Basket,27036.03,Jan 23 2019
+Metal Entitlement,,
+
+Spreads
+Type,Bid Spread,Offer Spread, Threshold
+
+Allocation Details
+Allocation Type,Allocation Weight
+
+Holdings: Securities
+ASSET CLASS,NAME,MIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),LOCAL CURRENCY,FACTOR,ACCRUED INCOME,ALT ID1 TYPE, ALT ID1 VALUE,ALT ID2 TYPE, ALT ID2 VALUE,ALT ID3 TYPE, ALT ID3 VALUE
+EQUITY,AGRANA BETEILIGUNGS AG,,A0091P145,AT000AGRANA3,BF0X9L7,439,439.94594,0.00000,19.367055,EUR,1.000000,,,,,,,
+EQUITY,ANDRITZ AG,,A11123105,AT0000730007,B1WVF68,1864,1864.02702,0.00000,48.884175,EUR,1.000000,,,,,,,
+EQUITY,AT & S AUSTRIA TECHNOLOGIE & SYSTE,,A05345110,AT0000969985,B2RK5K1,1281,1281.83783,0.00000,19.799457,EUR,1.000000,,,,,,,
+EQUITY,BAWAG GROUP AG,,A0997C107,AT0000BAWAG2,BZ1GZ06,1555,1555.91891,0.00000,42.079535,EUR,1.000000,,,,,,,
+EQUITY,CA IMMOBILIEN ANLAGEN AG,,A1144Q155,AT0000641352,5681046,2605,2605.18918,0.00000,35.297652,EUR,1.000000,,,,,,,
+EQUITY,DO & CO AKTIENGESELLSCHAFT AG,,A1447E107,AT0000818802,5492345,328,328.27027,0.00000,96.152533,EUR,1.000000,,,,,,,
+EQUITY,ERSTE GROUP BANK AG,,A19494102,AT0000652011,5289837,11383,11383.86486,0.00000,33.215295,EUR,1.000000,,,,,,,
+EQUITY,EVN AG,,A19833101,AT0000741053,4295374,1758,1758.72972,0.00000,15.794049,EUR,1.000000,,,,,,,
+EQUITY,FACC,,A20248109,AT00000FACC2,BN796M4,1173,1173.05405,0.00000,18.206397,EUR,1.000000,,,,,,,
+EQUITY,IMMOFINANZ AG,,A27849339,AT0000A21KS2,BFZ5BQ7,3630,3630.56756,0.00000,25.807567,EUR,1.000000,,,,,,,
+EQUITY,KAPSCH TRAFFICCOM AG,,A4712J108,AT000KAPSCH9,B1Z4QP0,381,381.70270,0.00000,41.533343,EUR,1.000000,,,,,,,
+EQUITY,LENZING AG,,A39226112,AT0000644505,4512330,569,569.56756,0.00000,95.811163,EUR,1.000000,,,,,,,
+EQUITY,OMV AG,,A51460110,AT0000743059,4651459,5623,5623.18918,0.00000,47.427664,EUR,1.000000,,,,,,,
+EQUITY,OSTERREICHISCHE POST AG,,A6191J103,AT0000APOST4,B1577G7,1436,1436.75675,0.00000,36.981744,EUR,1.000000,,,,,,,
+EQUITY,PALFINGER AG,,A61346101,AT0000758305,5700350,291,291.40540,0.00000,29.414710,EUR,1.000000,,,,,,,
+EQUITY,PORR AG,,A63700115,AT0000609607,4019950,701,701.86486,0.00000,22.814891,EUR,1.000000,,,,,,,
+EQUITY,RAIFFEISEN BANK INTERNATIONAL AG,,A7111G104,AT0000606306,B0704T9,5294,5294.27027,0.00000,27.605449,EUR,1.000000,,,,,,,
+EQUITY,S IMMO AG,,A7468Q101,AT0000652250,7390801,2136,2136.05405,0.00000,18.456735,EUR,1.000000,,,,,,,
+EQUITY,SCHOELLER-BLECKMANN OILFIELD EQUIP,,A7362J104,AT0000946652,7571305,507,507.54054,0.00000,75.784127,EUR,1.000000,,,,,,,
+EQUITY,SEMPERIT HOLDING AG,,A76473122,AT0000785555,5760280,873,873.29729,0.00000,16.271967,EUR,1.000000,,,,,,,
+EQUITY,TELEKOM AUSTRIA AG,,A8502A102,AT0000720008,4635088,7118,7118.78378,0.00000,7.407728,EUR,1.000000,,,,,,,
+EQUITY,UNIQA INSURANCE GROUP AG,,A90015131,AT0000821103,4422332,5317,5317.05405,0.00000,9.251125,EUR,1.000000,,,,,,,
+EQUITY,VERBUND AG,,A91460104,AT0000746409,4661607,2149,2149.10810,0.00000,49.726221,EUR,1.000000,,,,,,,
+EQUITY,VIENNA INSURANCE GROUP AG,,A9142L128,AT0000908504,B0BKSS2,1679,1679.91891,0.00000,24.442088,EUR,1.000000,,,,,,,
+EQUITY,VOESTALPINE AG,,A9101Y103,AT0000937503,4943402,2669,2669.67567,0.00000,30.643642,EUR,1.000000,,,,,,,
+EQUITY,WIENERBERGER AG,,A95384110,AT0000831706,5699373,4035,4035.35135,0.00000,22.268699,EUR,1.000000,,,,,,,
+EQUITY,ZUMTOBEL GROUP AG,,A989A1109,AT0000837307,B13WZ26,1770,1770.10810,0.00000,8.875618,EUR,1.000000,,,,,,,
+,,,,,,68564,68577.05390,0.00000
+
+Holdings: Synthetics
+ASSET CLASS,NAME,RIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),PRICE MULTIPLIER,CONTRACT SIZE,AVERAGE CONTRACT OPEN PRICE,BLOOMBERG TICKER
+
+FX Rates
+Base Currency,USD
+EUR,1.137900
+
+FX Forwards
+Currency Pair,Value Date,Nominal,Rate,Value,Currency
+
+Swaps
+Swap Notional,
+Swap Spread,
+Swap Mkt Value,
+
+Disclaimers
+CAREFULLY CONSIDER THE FUNDS INVESTMENT OBJECTIVES RISK FACTORS AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS
+PROSPECTUSES OR IF AVAILABLE THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING www.iShares.com OR www.blackrock.com. READ THE PROSPECTUS CAREFULLY BEFORE
+INVESTING. INVESTING INVOLVES RISK INCLUDING POSSIBLE LOSS OF PRINCIPAL.
+The iShares Funds are distributed by BlackRock Investments LLC (together with its affiliates BlackRock).
+The iShares Funds are not sponsored endorsed issued sold or promoted by Barclays Bloomberg Finance L.P. BlackRock Index Services LLC Cohen & Steers Capital Management Inc. European Public Real Estate
+Association (EPRA) FTSE International Limited (FTSE) ICE Data Services LLC India Index Services & Products Limited JPMorgan Chase & Co. Japan Exchange Group MSCI Inc. Markit Indices Limited Morningstar
+Inc. The NASDAQ OMX Group Inc. National Association of Real Estate Investment Trusts (NAREIT) New York Stock Exchange Inc. Russell or S&P Dow Jones Indices LLC. None of these companies make any
+representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services LLC who is an affiliate BlackRock Investments LLC is not affiliated with the companies listed above.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE NAREIT Equity REITS Index FTSE NAREIT All Residential Capped Index or FTSE NAREIT All Mortgage Capped Index; all rights vest in NAREIT.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE EPRA/NAREIT Developed Real Estate ex-U.S. Index FTSE EPRA/NAREIT Developed Europe Index or FTSE EPRA/NAREIT Global REIT Index;
+all rights vest in FTSE NAREIT and EPRA. FTSE is a trademark of London Stock Exchange Group companies and is used by FTSE under license.
+As a prior condition to gaining access to information for certain BlackRock funds and iShares ETFs (the Data) on a BlackRock operated FTP site (the FTP Site) you as the user of the FTP Site must acknowledge
+and agree to these Terms of Use available for download at https://www.ishares.com/us/literature/holdings/fdf-terms-of-use.pdf.
+By accessing the FTP Site downloading or using the Data from the FTP Site and/or producing any derivative works or materials based on or incorporating any Data you acknowledge and agree to these Terms of Use which
+apply to the access download and use of the Data from the FTP Site. If you do not wish to be bound by these Terms of Use please do not access the FTP Site download or use any of the Data contained in the FTP Site.
+Copyright 2019 BlackRock. All rights reserved. iShares and BlackRock are registered trademarks of BlackRock. All other trademarks servicemarks or registered trademarks are the property of their respective owners.
+ICRMH0119U-694529-1/1

@@ -1,0 +1,53 @@
+Fund Level
+Fund Name,iShares Gold Strategy ETF
+Fund Ticker,IAUF
+Fund ISIN,US46431W6140
+Fund Cusip,46431W614
+Fund LEI,
+Total NAV per share,47.075817,Nov 28 2018
+Distribution per Share,,
+Fund Size,4707581.70,Nov 28 2018
+Shares Outstanding,100000,Nov 28 2018
+Baskets Outstanding,2.000000000000,Nov 28 2018
+Share Class Apportionment Ratio,1
+Exposure Basket,NO
+Total Expense Ratio,
+
+Basket Level
+Trade Date,Nov 29 2018
+Settlement Date
+Shares per Basket (PNU),50000
+Projected Transaction Fee,,
+Confirmed Transaction Fee,,
+Projected Cash for Pricing Basket,9500.72,Nov 29 2018
+Projected Cash for Deliverable Basket,1789920.72,Nov 29 2018
+Confirmed Cash for Deliverable Basket,1789839.15,Nov 28 2018
+
+Spreads
+Type,Bid Spread,Offer Spread, Threshold
+
+Allocation Details
+Allocation Type,Allocation Weight
+
+Holdings: Securities
+ASSET CLASS,NAME,MIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),LOCAL CURRENCY,FACTOR,ACCRUED INCOME,ALT ID1 TYPE, ALT ID1 VALUE,ALT ID2 TYPE, ALT ID2 VALUE,ALT ID3 TYPE, ALT ID3 VALUE
+EQUITY,ISHARES GOLD TRUST,,464285105,US4642851053,B05ND15,48201.0000,48201.0000,0.0000,11.700000,USD,1.000000,,,,,,,
+,,,,,,48201,48201,0
+
+Holdings: Synthetics
+ASSET CLASS,NAME,RIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),PRICE MULTIPLIER,CONTRACT SIZE,AVERAGE CONTRACT OPEN PRICE,BLOOMBERG TICKER
+FUTURES,GOLD 100 OZ DEC 18,GCZ8,,,,0,4.5,0,1223.600000,,100,,GCZ8
+FUTURES,GOLD 100 OZ FEB 19,GCG9,,,,0,10,0,1229.800000,,100,,GCG9
+
+FX Rates
+Base Currency,USD
+
+FX Forwards
+Currency Pair,Value Date,Nominal,Rate,Value,Currency
+
+Swaps
+Swap Notional,
+Swap Spread,
+Swap Mkt Value,
+
+Disclaimers

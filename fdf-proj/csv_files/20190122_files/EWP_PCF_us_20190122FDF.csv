@@ -1,0 +1,95 @@
+Fund Level
+Fund Name,iShares MSCI Spain ETF
+Fund Ticker,EWP
+Fund ISIN,US4642867646
+Fund Cusip,464286764
+Fund LEI,
+Total NAV per share,28.358748,Jan 22 2019
+Distribution per Share,,
+Fund Size,1010280397.50,Jan 22 2019
+Shares Outstanding,35625000,Jan 22 2019
+Baskets Outstanding,475.000000000000,Jan 22 2019
+Share Class Apportionment Ratio,1
+Exposure Basket,NO
+Total Expense Ratio,
+
+Basket Level
+Trade Date,Jan 23 2019
+Settlement Date,
+Shares per Basket (PNU),75000
+Projected Transaction Fee,,
+Confirmed Transaction Fee,,
+Projected Cash for Pricing Basket,6523.36,Jan 23 2019
+Projected Cash for Deliverable Basket,130933.65,Jan 23 2019
+Confirmed Cash for Deliverable Basket,130962.74,Jan 22 2019
+Metal Entitlement,,
+
+Spreads
+Type,Bid Spread,Offer Spread, Threshold
+
+Allocation Details
+Allocation Type,Allocation Weight
+
+Holdings: Securities
+ASSET CLASS,NAME,MIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),LOCAL CURRENCY,FACTOR,ACCRUED INCOME,ALT ID1 TYPE, ALT ID1 VALUE,ALT ID2 TYPE, ALT ID2 VALUE,ALT ID3 TYPE, ALT ID3 VALUE
+EQUITY,ACS ACTIVIDADES DE CONSTRUCCION Y,,E7813W163,ES0167050915,B01FLQ6,1831,1831.25263,0.00000,40.372357,EUR,1.000000,,,,,,,
+EQUITY,ACTIVIDADES DE CONSTRUCCION Y SERV,,,ES06670509E9,BFMXP84,0,0.00000,1831.25263,0.522399,EUR,1.000000,,,,,,,
+EQUITY,AENA SME SA,,E526K0106,ES0105046009,BVRZ8L1,464,464.09473,0.00000,166.997330,EUR,1.000000,,,,,,,
+EQUITY,AMADEUS IT GROUP SA,,E04648114,ES0109067019,B3MSM28,1327,1327.90736,0.00000,73.362989,EUR,1.000000,,,,,,,
+EQUITY,BANCO BILBAO VIZCAYA ARGENTARIA,,E11805103,ES0113211835,5501906,29958,29958.86736,0.00000,5.871310,EUR,1.000000,,,,,,,
+EQUITY,BANCO DE SABADELL SA,,E15819191,ES0113860A34,B1X8QN2,40228,40228.54947,0.00000,1.169152,EUR,1.000000,,,,,,,
+EQUITY,BANCO SANTANDER SA,,E19790109,ES0113900J37,5705946,79013,79013.32842,0.00000,4.894084,EUR,1.000000,,,,,,,
+EQUITY,BANKIA SA,,E2R23Z164,ES0113307062,BZ3C3Q4,11528,11528.35578,0.00000,2.827768,EUR,1.000000,,,,,,,
+EQUITY,BANKINTER SA,,E2116H880,ES0113679I37,5474008,5651,5651.35368,0.00000,7.974534,EUR,1.000000,,,,,,,
+EQUITY,CAIXABANK SA,,E2427M123,ES0140609019,B283W97,22081,22081.03578,0.00000,3.689727,EUR,1.000000,,,,,,,
+EQUITY,ENAGAS SA,,E41759106,ES0130960018,7383072,0,1618.89894,0.00000,28.107337,EUR,1.000000,,,,,,,
+EQUITY,ENDESA SA,,E41222113,ES0130670112,5271782,2603,2603.68842,0.00000,24.087136,EUR,1.000000,,,,,,,
+EQUITY,FERROVIAL SA,,E49512119,ES0118900010,B038516,3601,3601.38947,0.00000,22.008897,EUR,1.000000,,,,,,,
+EQUITY,GRIFOLS SA CLASS A,,E5706X215,ES0171996087,BYY3DX6,2240,2240.02315,0.00000,27.550869,EUR,1.000000,,,,,,,
+EQUITY,IBERDROLA RIGHTS SA,,,ES06445809H0,BJ0VVY6,0,0.00000,28605.44421,0.178297,EUR,1.000000,,,,,,,
+EQUITY,IBERDROLA SA,,E6165F166,ES0144580Y14,B288C92,28230,28230.54947,0.00000,8.004061,EUR,1.000000,,,,,,,
+EQUITY,INDUSTRIA DE DISENO TEXTIL INDITEX,,E6282J125,ES0148396007,BP9DL90,3159,3159.08000,0.00000,27.232887,EUR,1.000000,,,,,,,
+EQUITY,INTERNATIONAL AIRLINES GROUP SA,,E67674106,ES0177542018,B5282K0,5432,5432.22105,0.00000,8.033588,EUR,1.000000,,,,,,,
+EQUITY,MAPFRE SA,,E7347B107,ES0124244E34,B1G40S0,12089,12089.83157,0.00000,2.782342,EUR,1.000000,,,,,,,
+EQUITY,NATURGY ENERGY SA,,E7S90S109,ES0116870314,5650422,2609,2609.68210,0.00000,26.630992,EUR,1.000000,,,,,,,
+EQUITY,RED ELECTRICA SA,,E42807110,ES0173093024,BD6FXN3,0,3208.41473,0.00000,22.241705,EUR,1.000000,,,,,,,
+EQUITY,REPSOL SA,,E8471S130,ES0173516115,5669354,5709,5709.22526,0.00000,16.841689,EUR,1.000000,,,,,,,
+EQUITY,REPSOL SA EUR1 (RFD JAN 2019),,,ES0173516156,BGPFVR5,0,169.80210,0.00000,16.841689,EUR,1.000000,,,,,,,
+EQUITY,SIEMENS GAMESA RENEWABLE ENERGY SA,,E8T87A100,ES0143416115,B01CP21,2574,2574.01052,0.00000,13.162183,EUR,1.000000,,,,,,,
+EQUITY,TELEFONICA SA,,E90183182,ES0178430E18,5732524,21300,21300.00842,0.00000,8.732013,EUR,1.000000,,,,,,,
+,,,,,,281627,286631.57041,30436.69684
+
+Holdings: Synthetics
+ASSET CLASS,NAME,RIC,CUSIP,ISIN,SEDOL,DELIVERABLE BASKET QTY,PRICING BASKET QTY,EXCLUDED BASKET QTY,PRICE(in Fund Base Currency),PRICE MULTIPLIER,CONTRACT SIZE,AVERAGE CONTRACT OPEN PRICE,BLOOMBERG TICKER
+FUTURES,IBEX 35 INDEX FEB 19,MFXIG9,,ES0B00049485,,0,0.04421,0.00000,10234.023392,,10,,IBG9
+
+FX Rates
+Base Currency,USD
+EUR,1.135650
+
+FX Forwards
+Currency Pair,Value Date,Nominal,Rate,Value,Currency
+
+Swaps
+Swap Notional,
+Swap Spread,
+Swap Mkt Value,
+
+Disclaimers
+CAREFULLY CONSIDER THE FUNDS INVESTMENT OBJECTIVES RISK FACTORS AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS
+PROSPECTUSES OR IF AVAILABLE THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING www.iShares.com OR www.blackrock.com. READ THE PROSPECTUS CAREFULLY BEFORE
+INVESTING. INVESTING INVOLVES RISK INCLUDING POSSIBLE LOSS OF PRINCIPAL.
+The iShares Funds are distributed by BlackRock Investments LLC (together with its affiliates BlackRock).
+The iShares Funds are not sponsored endorsed issued sold or promoted by Barclays Bloomberg Finance L.P. BlackRock Index Services LLC Cohen & Steers Capital Management Inc. European Public Real Estate
+Association (EPRA) FTSE International Limited (FTSE) ICE Data Services LLC India Index Services & Products Limited JPMorgan Chase & Co. Japan Exchange Group MSCI Inc. Markit Indices Limited Morningstar
+Inc. The NASDAQ OMX Group Inc. National Association of Real Estate Investment Trusts (NAREIT) New York Stock Exchange Inc. Russell or S&P Dow Jones Indices LLC. None of these companies make any
+representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services LLC who is an affiliate BlackRock Investments LLC is not affiliated with the companies listed above.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE NAREIT Equity REITS Index FTSE NAREIT All Residential Capped Index or FTSE NAREIT All Mortgage Capped Index; all rights vest in NAREIT.
+Neither FTSE nor NAREIT makes any warranty regarding the FTSE EPRA/NAREIT Developed Real Estate ex-U.S. Index FTSE EPRA/NAREIT Developed Europe Index or FTSE EPRA/NAREIT Global REIT Index;
+all rights vest in FTSE NAREIT and EPRA. FTSE is a trademark of London Stock Exchange Group companies and is used by FTSE under license.
+As a prior condition to gaining access to information for certain BlackRock funds and iShares ETFs (the Data) on a BlackRock operated FTP site (the FTP Site) you as the user of the FTP Site must acknowledge
+and agree to these Terms of Use available for download at https://www.ishares.com/us/literature/holdings/fdf-terms-of-use.pdf.
+By accessing the FTP Site downloading or using the Data from the FTP Site and/or producing any derivative works or materials based on or incorporating any Data you acknowledge and agree to these Terms of Use which
+apply to the access download and use of the Data from the FTP Site. If you do not wish to be bound by these Terms of Use please do not access the FTP Site download or use any of the Data contained in the FTP Site.
+Copyright 2019 BlackRock. All rights reserved. iShares and BlackRock are registered trademarks of BlackRock. All other trademarks servicemarks or registered trademarks are the property of their respective owners.
+ICRMH0119U-694529-1/1
